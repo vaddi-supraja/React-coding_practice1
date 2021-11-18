@@ -1,0 +1,22 @@
+/* Write your code here. */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0px;
+}
+.container {
+  background-color: #0f172a;
+  min-height: 100vh;
+  background-size: cover;
+}
+.heading {
+  color: blue;
+  font-weight: bold;
+  font-family: "Roboto";
+}
+.image {
+  height: 300px;
+  width: 300px;
+}
